@@ -2,7 +2,9 @@
 
 I am a Front-end Developer based in Stockholm, Sweden 🇸🇪
 
-[Website](https://nicko.io) • [Linkedin](https://www.linkedin.com/in/nicholas-otieno)
+- 🌐 [Website](https://nicko.io) 
+
+- 💼 [Linkedin](https://www.linkedin.com/in/nicholas-otieno)
 
 - 🌱 I’m currently learning Fullstack Development at [Masterschool](https://www.masterschool.com/)
 
