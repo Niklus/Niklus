@@ -1,6 +1,6 @@
 ### Hi there, I'm Nicholas 👋
 
-I am a Front-end Developer based in Stockholm, Sweden 🇸🇪
+I am a Web Developer based in Stockholm, Sweden 🇸🇪
 
 - 🌐 [Website](https://nicko.io) 
 
